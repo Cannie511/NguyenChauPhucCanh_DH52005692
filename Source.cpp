@@ -14,3 +14,6 @@ int tongMang(int a[], int n){
 	}
 	return tong;
 }
+void xuatThongTin(){
+	cout<<"DH52005692| Nguyen Chau Phuc Canh| D20_TH10";
+}
