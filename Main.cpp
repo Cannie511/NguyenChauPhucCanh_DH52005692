@@ -6,5 +6,6 @@ int main()
 	nhap(a, 10);
 	int tong = tongMang();
 	cout<<"\ntong la:"<<tong;
+	xuatThongTin();
 	return 0;
 }
